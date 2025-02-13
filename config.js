@@ -1,5 +1,5 @@
 // ============================================
-// 💝 BE MY VALENTINE 💝
+// 💝 ??? 💝
 // ============================================
 
 const CONFIG = {
@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Officially Be My Valentine? 💝",
+    pageTitle: "CLICK ME",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -25,12 +25,12 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I heart you! ❤️"           // Secret hover message
+            secretAnswer: "I don't like you, I heart you! Duh."           // Secret hover message
         },
         second: {
-            text: "How much do you like me?",                          // For the love meter
+            text: "Pfft, but how much do you think you like me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Next"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
@@ -43,15 +43,15 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW You heart me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        high: "Forever and always 🚀💝",              // Shows when they go past 1000%
+        normal: "Till the sun explodes! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! I can not wait to FaceTime 🎉💝💖💝💓",
-        message: "Distance does not stop valentines!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay! I'm the luckiest person in the world! I can not wait to FaceTime and match pjs :) 🎉💝💖💝💓",
+        message: "Distance does not stop this valentines!",
+        emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
