@@ -1,5 +1,5 @@
 // ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
+// 💝 BE MY VALENTINE 💝
 // ============================================
 
 const CONFIG = {
