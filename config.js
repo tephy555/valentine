@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        icons: ['🧡', '💙', '💝', '🧀', '🏈'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Next"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Are you available on October 11, 2026 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            noBtn: "No..."                                                 // Text for "No" button
         }
     },
 
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! I can not wait to FaceTime and match pjs :) 🎉💝💖💝💓",
-        message: "Distance does not stop this valentines!",
-        emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
+        title: "Yay! I knew you would be, that is why I got us tickets for the Bears vs Packers game! :) 🎉💝💖💝💓",
+        message: "The game is at 12 pm, make sure to wear your jersey!",
+        emojis: "🧡, 💙, 🧀, 🏈, 🧸, 🐻"  // These will bounce around
     },
 
     // Color scheme for the website
